@@ -1,0 +1,10 @@
+C:\Users\Ucenik\source\repos\CheckBox\CheckBox\bin\Debug\CheckBox.exe.config
+C:\Users\Ucenik\source\repos\CheckBox\CheckBox\bin\Debug\CheckBox.exe
+C:\Users\Ucenik\source\repos\CheckBox\CheckBox\bin\Debug\CheckBox.pdb
+C:\Users\Ucenik\source\repos\CheckBox\CheckBox\obj\Debug\CheckBox.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\CheckBox\CheckBox\obj\Debug\CheckBox.Form1.resources
+C:\Users\Ucenik\source\repos\CheckBox\CheckBox\obj\Debug\CheckBox.Properties.Resources.resources
+C:\Users\Ucenik\source\repos\CheckBox\CheckBox\obj\Debug\CheckBox.csproj.GenerateResource.cache
+C:\Users\Ucenik\source\repos\CheckBox\CheckBox\obj\Debug\CheckBox.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\CheckBox\CheckBox\obj\Debug\CheckBox.exe
+C:\Users\Ucenik\source\repos\CheckBox\CheckBox\obj\Debug\CheckBox.pdb
